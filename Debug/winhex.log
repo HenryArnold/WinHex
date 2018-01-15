@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  winhex.cpp
+c:\users\xiaocai\git\winhex\winhex.cpp(13): error C2371: “Init”: 重定义；不同的基类型
+  c:\users\xiaocai\git\winhex\winhex.cpp(10): note: 参见“Init”的声明
+c:\users\xiaocai\git\winhex\winhex.cpp(85): error C2374: “WriteClipboard”: 重定义；多次初始化
+  c:\users\xiaocai\git\winhex\winhex.cpp(76): note: 参见“WriteClipboard”的声明
+c:\users\xiaocai\git\winhex\winhex.cpp(88): error C2374: “WriteClipboard”: 重定义；多次初始化
+  c:\users\xiaocai\git\winhex\winhex.cpp(76): note: 参见“WriteClipboard”的声明
+c:\users\xiaocai\git\winhex\winhex.cpp(93): error C2144: 语法错误:“int”的前面应有“;”
