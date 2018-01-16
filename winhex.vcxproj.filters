@@ -23,11 +23,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="stdafx.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="winhex.cpp">
+    <ClCompile Include="winhex.c">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Desktop\whxapi.dll">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
